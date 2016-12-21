@@ -10,16 +10,16 @@ All hashrates are from [Ubuntu 16.04](https://www.ubuntu.com/download/server) us
 
 | Vendor | GPU     | Hashrate |
 |--------|---------|----------|
-| AMD    | R9 380X | 555 h/s  |
-| AMD    | R9 390  | 635 h/s  |
-| AMD    | R9 390X | 725 h/s  |
+| AMD    | R9 380X | 560 h/s  |
+| AMD    | R9 390  | 715 h/s  |
+| AMD    | R9 390X | 765 h/s  |
 
 ## Basic Usage
 
 ```
 cd sgminer-gm
 git clone https://github.com/jramos/sgminer-optimal-configurations.git conf
-./sgminer-gm -c conf/xmr/r9_380x.conf
+./sgminer-gm -c conf/xmr/r9_390x.conf
 ```
 
 ## Contributing
