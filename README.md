@@ -29,8 +29,7 @@ Open an issue or pull request with your configuration and hardware details.
 ## Donating
 
 ```
-BTC: 1FzEfbfgdxMH1oLpgz19refMUke2GhiJsU
-XMR: 4A7RTRaTKAdhLGHXN8rBXPQa39a2psd5EYKwRpinAfSN1XPJZG3EfifDmXECJdRYwCVkKV84aRdGUZrfVEuvYuvfSLxoSgP
+BTC: 18HFFqZv2KJMHPNwPes839PJd5GZc4cT3U
 ```
 
 ## Etc.
